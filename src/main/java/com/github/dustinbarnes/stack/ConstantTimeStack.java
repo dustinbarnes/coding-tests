@@ -1,4 +1,4 @@
-package org.github.dustinbarnes.stack;
+package com.github.dustinbarnes.stack;
 
 
 public class ConstantTimeStack
